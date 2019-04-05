@@ -1,0 +1,12 @@
+{
+    "name": "root/src",
+    "authors": [
+        {
+            "name": "vabalos",
+            "email": "vicbryanabalos@gmail.com"
+        }
+    ],
+    "require": {
+        "fzaninotto/faker": "^1.8"
+    }
+}
